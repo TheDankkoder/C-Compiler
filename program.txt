@@ -1,0 +1,15 @@
+// This is the c test file
+
+int x ;
+x = x + 5 ;
+/*
+    Multi line Comment
+*/
+
+// Single line Comment
+for(int i = 0, i <= 4; i++){
+    x += i;
+}
+    x++;
+
+_sda = "gdsdg";
